@@ -142,6 +142,7 @@ TW_INCLUDE_REPACKTOOLS := true
 TW_CUSTOM_CPU_TEMP_PATH := /sys/class/power_supply/battery/temp
 TW_Y_OFFSET := 115
 TW_H_OFFSET := -115
+TW_SUPPORT_INPUT_1_2_HAPTICS := true
 
 # Hack: prevent anti rollback
 PLATFORM_SECURITY_PATCH := 2099-12-31
